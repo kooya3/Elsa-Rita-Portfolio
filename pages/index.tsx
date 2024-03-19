@@ -1,10 +1,18 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 
-const index = () => {
+const Home: NextPage = () => {
   return (
-    <div>index</div>
-  )
-}
+    <div>
+      <Head>
+        <title>
+          Little test
+        </title>
+      </Head>
 
-export default index
+      <h1 className="p-text-red-500">Let's build something Awesome</h1>
+    </div>
+  );
+};
+
+export default Home;
