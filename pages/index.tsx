@@ -13,8 +13,6 @@ const Home: NextPage = () => {
 
       <h1 className="p-text-red-500">Let's build something Awesome</h1>
 
-      <Link href="#hero">
-        <footer className="sticky bottom-5 w-full cursor-pointer">
 
     </div>
   );
