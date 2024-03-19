@@ -19,9 +19,6 @@ const Home: NextPage = () => {
             <img
               className="h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer"
               src="https://i.imgur.com/e2yvD6A.png"
-              alt=""
-            />
-          </div>
 
     </div>
   );
