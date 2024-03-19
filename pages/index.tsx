@@ -22,8 +22,7 @@ const Home: NextPage = () => {
               alt=""
             />
           </div>
-        </footer>
-      </Link>
+
     </div>
   );
 };
