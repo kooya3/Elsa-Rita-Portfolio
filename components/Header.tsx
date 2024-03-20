@@ -26,7 +26,7 @@ export default function Header({}: Props) {
         bgColor=""
         />
 
-        <div>
+        <div className="flex flex-row items-center text-gray">
           <SocialIcon 
           className=""
           network=""
