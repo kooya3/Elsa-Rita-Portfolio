@@ -34,7 +34,9 @@ export default function Header({}: Props) {
           bgColor=""
           />
 
-          <p className="uppercase hidden md:inline-flex text-gray">Get In Touch</p>
+          <p className="uppercase hidden md:inline-flex text-gray">
+          Get In Touch
+          </p>
         </div>
       </div>
     </header>
