@@ -1,9 +1,20 @@
 import React from 'react'
+import { SocialIcon } from 'react-social-icons'
 
 type Props = {}
 
 export default function Header({}: Props) {
   return (
-    <div> I am a Header</div>
+    <header> 
+      <div>
+        {/* Social Icons */}
+        <SocialIcon
+        url=""
+        fgColor=""
+        bgColor=""
+        />
+        
+      </div>
+    </header>
   )
 }
