@@ -33,8 +33,8 @@ export default function Header({}: Props) {
           fgColor=""
           bgColor=""
           />
-          
-          <p className="uppercase">Get In Touch</p>
+
+          <p className="uppercase hidden md:inline-flex text-gray">Get In Touch</p>
         </div>
       </div>
     </header>
