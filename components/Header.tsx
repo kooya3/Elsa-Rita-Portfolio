@@ -25,6 +25,16 @@ export default function Header({}: Props) {
         fgColor=""
         bgColor=""
         />
+
+        <div>
+          <SocialIcon 
+          className=""
+          network=""
+          fgColor=""
+          bgColor=""
+          />
+          
+        </div>
       </div>
     </header>
   )
