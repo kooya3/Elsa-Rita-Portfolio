@@ -6,7 +6,7 @@ type Props = {}
 export default function Header({}: Props) {
   return (
     <header> 
-      <div>
+      <div className="flex flex-row items-center">
         {/* Social Icons */}
         <SocialIcon
         url=""
