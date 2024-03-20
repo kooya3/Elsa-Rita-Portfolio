@@ -24,10 +24,9 @@ const Home: NextPage = () => {
 
       {/* Projects */}
 
+      {/* Contact Me */}
 
-
-
-      <h1 className="text-red-500">Let's build something Awesome</h1>
+    <h1 className="text-red-500">Let's build something Awesome</h1>
     </div>
   );
 };
