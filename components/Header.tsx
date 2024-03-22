@@ -30,8 +30,8 @@ export default function Header({}: Props) {
           <SocialIcon 
           className=""
           network=""
-          fgColor=""
-          bgColor=""
+          fgColor="gray"
+          bgColor="transparent"
           />
 
           <p className="uppercase hidden md:inline-flex text-gray">
