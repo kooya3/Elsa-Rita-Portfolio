@@ -22,8 +22,8 @@ export default function Header({}: Props) {
         
         <SocialIcon 
         url=""
-        fgColor=""
-        bgColor=""
+        fgColor="gray"
+        bgColor="transparent"
         />
 
         <div className="flex flex-row items-center text-gray-300 cursor-pointer">
