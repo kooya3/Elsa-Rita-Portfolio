@@ -5,7 +5,7 @@ type Props = {}
 
 export default function Header({}: Props) {
   return (
-    <header> 
+    <header className="sticky top-0"> 
       <div className="flex flex-row items-center">
         {/* Social Icons */}
         <SocialIcon
