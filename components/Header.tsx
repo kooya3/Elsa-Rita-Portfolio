@@ -9,15 +9,15 @@ export default function Header({}: Props) {
       <div className="flex flex-row items-center">
         {/* Social Icons */}
         <SocialIcon
-        url=""
-        fgColor=""
-        bgColor=""
+        url="https://twitter.com/kooya3"
+        fgColor="gray"
+        bgColor="transparent"
         />
 
         <SocialIcon
         url=""
-        fgColor=""
-        bgColor=""
+        fgColor="gray"
+        bgColor="transparent"
         />
         
         <SocialIcon 
