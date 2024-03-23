@@ -5,7 +5,7 @@ type Props = {}
 
 export default function Header({}: Props) {
   return (
-    <header className="sticky top-0 flex items-start justify-between max-w-7xl"> 
+    <header className="sticky top-0 flex items-start justify-between max-w-7xl mx-auto"> 
       <div className="flex flex-row items-center">
         {/* Social Icons */}
         <SocialIcon
