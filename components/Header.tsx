@@ -1,12 +1,15 @@
 import React from 'react'
-import { SocialIcon } from 'react-social-icons'
+import { SocialIcon } from 'react-social-icons';
+import { motion } from "framer-motion";
 
 type Props = {}
 
 export default function Header({}: Props) {
   return (
-    <header className="sticky top-0 flex items-start justify-between max-w-7xl mx-auto"> 
-      <div className="flex flex-row items-center">
+    <header className="sticky top-0 flex items-start justify-between max-w-7xl mx-auto z-20 xl:items-center"> 
+       <motion.div
+
+       />
         {/* Social Icons */}
         <SocialIcon
         url="https://twitter.com/kooya3"
