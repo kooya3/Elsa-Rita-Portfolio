@@ -23,19 +23,19 @@ export default function Header({}: Props) {
       >
         {/* Social Icons */}
         <SocialIcon
-        url="https://twitter.com/kooya3"
+        url="https://twitter.com/elsarita6020"
         fgColor="gray"
         bgColor="transparent"
         />
 
         <SocialIcon
-        url="https://github.com/kooya3"
+        url="https://github.com/ElyeesT"
         fgColor="gray"
         bgColor="transparent"
         />
         
         <SocialIcon 
-        url="https://www.linkedin.in/elyeestatua"
+        url="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/"
         fgColor="gray"
         bgColor="transparent"
         />
@@ -43,8 +43,8 @@ export default function Header({}: Props) {
 
         <div className="flex flex-row items-center text-gray-300 cursor-pointer">
           <SocialIcon 
-          className=""
-          network=""
+          className="cursor-pointer"
+          network='email'
           fgColor="gray"
           bgColor="transparent"
           />
