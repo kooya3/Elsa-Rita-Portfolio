@@ -30,7 +30,7 @@ export default function Header({}: Props) {
 
         <SocialIcon
         url="https://github.com/ElyeesT"
-        fgColor="gray"
+        fgColor="black"
         bgColor="transparent"
         />
         
