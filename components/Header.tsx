@@ -35,7 +35,7 @@ export default function Header({}: Props) {
         />
         
         <SocialIcon 
-        url="https://www.linkedin.com/in/elsarita-njoki-oulie-b22b3a291/"
+        url="https://www.linkedin.com/in/elyeestatua/"
         fgColor="gray"
         bgColor="transparent"
         />
