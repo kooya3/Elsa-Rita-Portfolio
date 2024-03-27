@@ -50,7 +50,7 @@ export default function Header({}: Props) {
           />
 
           <p className="uppercase hidden md:inline-flex text-gray">
-          Get In Touch
+          Send a mail
           </p>
         </div>
     </header>
