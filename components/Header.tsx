@@ -24,7 +24,7 @@ export default function Header({}: Props) {
         {/* Social Icons */}
         <SocialIcon
         url="https://twitter.com/elsarita6020"
-        fgColor="gray"
+        fgColor="black"
         bgColor="transparent"
         />
 
