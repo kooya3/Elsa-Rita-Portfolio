@@ -45,7 +45,7 @@ export default function Header({}: Props) {
           <SocialIcon 
           className="cursor-pointer"
           network='email'
-          fgColor="gray"
+          fgColor="black"
           bgColor="transparent"
           />
 
